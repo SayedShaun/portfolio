@@ -1,7 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-shaun) 
 
-# Aspire Data Scientist
-
 ## Education
 - B.S., Computer Science and Engineering | World University of Bangladesh (Jan 2020 - Feb 2024)
 
