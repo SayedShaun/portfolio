@@ -1,10 +1,7 @@
 # Aspire Data Scientist
 
 ## Education
-**Bachelor**
-*Bsc in Computer Science and Engineering* *January 2020 - February 2024*  
-*World University of Bangladesh | Dhaka, Bangladesh*  
-
+- B.S., Computer Science and Engineering | World University of Bangladesh (_May 2017_)
 
 ## Experience
 
