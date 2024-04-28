@@ -1,5 +1,5 @@
 title: Md. Abu Sayed
-logo: assets/169614979212566.jpg
+logo: ./assets/169614979212566.jpg
 description: Aspire Data Scientist
 #show_downloads: False
 remote_theme: pages-themes/modernist@v0.2.0
