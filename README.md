@@ -14,6 +14,6 @@
 
 ## Experience
 **Non-Technical Business Experience - Customer Experience:**
-  Working in the largest e-commerce platform in South Asia has given me a deep understanding of customer behavior and needs. As a result, I have significantly improved customer     
-  satisfaction for diverse interactions.
+Working in the largest e-commerce platform in South Asia has given me a deep understanding of customer behavior and needs. As a result, I have significantly improved customer     
+satisfaction for diverse interactions.
 ## Projects
