@@ -3,7 +3,8 @@
 *Filed of Interest: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning*
 
 ## Education
-- B.S., Computer Science and Engineering - World University of Bangladesh (Jan 2020 - Feb 2024)
+- B.S., Computer Science and Engineering
+  World University of Bangladesh (Jan 2020 - Feb 2024)
 
 ## Skills
 - Programming Languages: Python, SQL
