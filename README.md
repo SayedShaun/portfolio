@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayed-shaun) 
 
-*Filed of Interest: Data Science, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning*
+**Field of Interest:** Data Science, Machine Learning, Deep Learning, Natural Language Processing, Reinforcement Learning
 
 ## Education
 - B.S., Computer Science and Engineering - World University of Bangladesh (_Jan 2020 - Feb 2024_)
