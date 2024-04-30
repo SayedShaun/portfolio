@@ -3,3 +3,6 @@ logo: ./assets/169614979212566.jpg
 description: Aspire Data Scientist
 #show_downloads: False
 theme: jekyll-theme-minimal
+
+social:
+  linkedin: https://www.linkedin.com/in/sayed-shaun
